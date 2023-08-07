@@ -1,5 +1,0 @@
-Public Static Void Main (String[]args){
-        Public Class Even()
-{
-}
-}
